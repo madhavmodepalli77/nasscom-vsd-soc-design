@@ -42,7 +42,7 @@ Number of Cells : 14876
 Flop ratio = 10.842%
 
 
-**DAY-1**
+**DAY-2**
 **Good FloorPlan Vs Bad FloorPlan and Introduction to Library Cells**
 run_floorplan
 
@@ -51,3 +51,9 @@ run_floorplan
 magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &
 
 ![image](https://github.com/user-attachments/assets/bba96ed4-1933-4ee9-acb3-91e6a5098f49)
+
+enter the placement command
+
+run_placement
+
+
